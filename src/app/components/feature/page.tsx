@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { features } from "./featureData/page";
+import { features } from "./featureData/feature";
 
 export default function Features() {
   return (
